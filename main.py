@@ -14,12 +14,14 @@ def create_sources_string(sources: set[str]) -> str:
         sources_string += source
     return sources_string
 
+
 from PIL import Image
+
 image = Image.open("banner_bot_1.png")
 st.image(image)
 
 
-st.header("Edelweiss A340 Bot")
+st.header("A320 Knowledge Bot")
 
 if "user_promt_history" not in st.session_state:
     st.session_state["user_promt_history"] = []

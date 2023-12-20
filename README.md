@@ -25,3 +25,6 @@ https://www.activeloop.ai/resources/data-chad-an-ai-app-with-lang-chain-deep-lak
 https://www.activeloop.ai/resources/ultimate-guide-to-lang-chain-deep-lake-build-chat-gpt-to-answer-questions-on-your-financial-data/
 
 https://betterprogramming.pub/youtube-chatbot-using-langchain-and-openai-f8faa8f34929
+
+
+https://github.com/hwchase17/chroma-langchain/blob/master/persistent-qa.ipynb
