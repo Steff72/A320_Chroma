@@ -21,6 +21,7 @@ tqdm = "*"
 pypdf = "*"
 rank-bm25 = "*"
 chromadb = "*"
+gpt4all = "*"
 
 [dev-packages]
 

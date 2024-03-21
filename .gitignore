@@ -1,4 +1,6 @@
 .env
 
+llm_model/nous-hermes-llama2-13b.Q4_0.gguf
+
 data/fcom.pdf
 data/fctm.pdf
